@@ -4,7 +4,7 @@ PYTHON="/opt/python/bin/python"
 KOHA_URL='http://koha:8080'
 KOHA_USER='koha_user'
 KOHA_PASS='koha_pass'
-SOLR_URL='http://localhost:8983/solr'
+SOLR_URL='http://localhost:8983/solr/osacatalog'
 
 KOHA_AUTH=$KOHA_URL+'/cgi-bin/koha/svc/authentication?userid='+$KOHA_USER+'&password='+$KOHA_PASS
 KOHA_EXPORT=$KOHA_URL+'/cgi-bin/koha/tools/export.pl'

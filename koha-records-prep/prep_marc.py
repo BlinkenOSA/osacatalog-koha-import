@@ -20,7 +20,8 @@ m580a = {
     'InstPublicOpinion':    u'HU OSA 420 - Hungarian Institute for Public Opinion Research collection',
     'RepPress':             u"Republics' Press",
     'SamizdatEmigre':       u'Samizdat and Emigré Publications',
-    'Magos':                u'HU OSA 416 - Donation of Gábor Magos'
+    'Magos':                u'HU OSA 416 - Donation of Gábor Magos',
+    'KemenyIstvan':         u'HU OSA 368 - Donation of István Kemény'
 }
 
 alphanum_reverse_map = {

@@ -8,8 +8,8 @@ outputdir = os.path.join(os.path.dirname(os.path.realpath(__file__)), 'output')
 
 m580a = {
     'VargaLaszlo':          u'Donation of László Varga',
-    'OSIBudapest':          u'HU OSA 207 - Donation of the Soros Foundation - Budapest',
-    'OSINewYork':           u'HU OSA 208 - Donation of the Open Society Institute - New York',
+    'OSIBudapest':          u'HU OSA 207 - Donation of the Open Society Institute–Budapest',
+    'OSINewYork':           u'HU OSA 208 - Donation of the Open Society Institute–New York',
     'RFE/RLcoll':           u'HU OSA 300 - RFE/RL collection',
     'RegionalPress':        u'HU OSA 300-85-18 - Regional Press',
     'InformalPress':        u'HU OSA 300-85-19 - Informal Press',
@@ -21,7 +21,9 @@ m580a = {
     'RepPress':             u"Republics' Press",
     'SamizdatEmigre':       u'Samizdat and Emigré Publications',
     'Magos':                u'HU OSA 416 - Donation of Gábor Magos',
-    'KemenyIstvan':         u'HU OSA 368 - Donation of István Kemény'
+    'KemenyIstvan':         u'HU OSA 368 - Donation of István Kemény',
+    'LGI':                  u'HU OSA 104 - Donation of the Local Government and Public Service Reform Initiative',
+    'HegedusAndras':        u'HU OSA 361 - Donation of Hegedüs András'
 }
 
 alphanum_reverse_map = {
